@@ -1,0 +1,24 @@
+C:\Users\Asus\Desktop\saper\11-12. Game Sapper\bin\Debug\saper.exe
+C:\Users\Asus\Desktop\saper\11-12. Game Sapper\bin\Debug\saper.pdb
+C:\Users\Asus\Desktop\saper\11-12. Game Sapper\obj\x86\Debug\saper.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\saper\11-12. Game Sapper\obj\x86\Debug\saper.Properties.Resources.resources
+C:\Users\Asus\Desktop\saper\11-12. Game Sapper\obj\x86\Debug\Sapper.Window.resources
+C:\Users\Asus\Desktop\saper\11-12. Game Sapper\obj\x86\Debug\saper.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\saper\11-12. Game Sapper\obj\x86\Debug\saper.exe
+C:\Users\Asus\Desktop\saper\11-12. Game Sapper\obj\x86\Debug\saper.pdb
+C:\Users\Asus\Desktop\saper\sapper\bin\Debug\saper.exe
+C:\Users\Asus\Desktop\saper\sapper\bin\Debug\saper.pdb
+C:\Users\Asus\Desktop\saper\sapper\obj\x86\Debug\saper.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\saper\sapper\obj\x86\Debug\saper.Properties.Resources.resources
+C:\Users\Asus\Desktop\saper\sapper\obj\x86\Debug\Sapper.Window.resources
+C:\Users\Asus\Desktop\saper\sapper\obj\x86\Debug\saper.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\saper\sapper\obj\x86\Debug\saper.exe
+C:\Users\Asus\Desktop\saper\sapper\obj\x86\Debug\saper.pdb
+C:\Users\Asus\Desktop\sapper\obj\x86\Debug\saper.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\sapper\obj\x86\Debug\saper.Properties.Resources.resources
+C:\Users\Asus\Desktop\sapper\obj\x86\Debug\Sapper.Window.resources
+C:\Users\Asus\Desktop\sapper\obj\x86\Debug\saper.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\sapper\obj\x86\Debug\saper.exe
+C:\Users\Asus\Desktop\sapper\obj\x86\Debug\saper.pdb
+C:\Users\Asus\Desktop\sapper\bin\Debug\saper.exe
+C:\Users\Asus\Desktop\sapper\bin\Debug\saper.pdb
